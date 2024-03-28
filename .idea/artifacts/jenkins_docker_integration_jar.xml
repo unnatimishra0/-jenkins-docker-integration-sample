@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jenkins-docker-integration:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jenkins_docker_integration_jar</output-path>
+    <root id="archive" name="jenkins-docker-integration.jar">
+      <element id="module-output" name="jenkins-docker-integration" />
+    </root>
+  </artifact>
+</component>
